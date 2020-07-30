@@ -789,6 +789,7 @@ blockquote {
 }
 
 .slide-nav {
+  top: 560px;
   margin-top: 0px;
   margin-bottom: 0px;
   padding-top: 0px;
@@ -817,6 +818,35 @@ blockquote {
 .button-2 {
   margin-top: 9px;
   padding-right: 0px;
+}
+
+.image-9 {
+  -o-object-fit: fill;
+  object-fit: fill;
+}
+
+.image-10 {
+  position: relative;
+  top: -80px;
+  right: 0px;
+  float: none;
+}
+
+.image-11 {
+  position: absolute;
+  top: 2px;
+  right: -2px;
+  overflow: visible;
+  margin-top: -4px;
+  padding-right: 0px;
+  -o-object-fit: fill;
+  object-fit: fill;
+}
+
+.image-12 {
+  position: absolute;
+  top: 7px;
+  padding-bottom: 0px;
 }
 
 html.w-mod-js *[data-ix="tile-1"] {
