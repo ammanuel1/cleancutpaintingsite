@@ -843,7 +843,7 @@ blockquote {
 }
 
 .image-12 {
-  position: absolute;
+  position: relative;
   top: 7px;
   padding-bottom: 0px;
   object-fit: cover;
