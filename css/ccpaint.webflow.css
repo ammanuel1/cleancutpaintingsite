@@ -836,7 +836,6 @@ blockquote {
   position: relative;
   top: 2px;
   right: -2px;
-  overflow: visible;
   margin-top: -4px;
   padding-right: 0px;
   -o-object-fit: fill;
