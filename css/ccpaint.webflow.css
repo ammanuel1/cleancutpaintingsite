@@ -844,8 +844,9 @@ blockquote {
 
 .image-12 {
   position: relative;
-  top: 7px;
-  object-fit: cover;
+  top: 2px;
+  -o-object-fit: fill;
+  object-fit: fill;
 }
 
 html.w-mod-js *[data-ix="tile-1"] {
