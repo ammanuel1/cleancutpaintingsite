@@ -833,20 +833,21 @@ blockquote {
 }
 
 .image-11 {
-  position: absolute;
+  position: relative;
   top: 2px;
   right: -2px;
   overflow: visible;
   margin-top: -4px;
   padding-right: 0px;
   -o-object-fit: fill;
-  object-fit: fill;
+  object-fit: cover;
 }
 
 .image-12 {
   position: absolute;
   top: 7px;
   padding-bottom: 0px;
+  object-fit: cover;
 }
 
 html.w-mod-js *[data-ix="tile-1"] {
