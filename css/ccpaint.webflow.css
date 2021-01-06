@@ -193,7 +193,7 @@ blockquote {
 }
 
 ._60block {
-  width: 60%;
+  width: 50%;
   height: 300px;
   padding: 5px;
   float: left;
@@ -253,7 +253,7 @@ blockquote {
 
 ._40block {
   position: relative;
-  width: 40%;
+  width: 50%;
   height: 300px;
   padding: 5px;
   float: left;
