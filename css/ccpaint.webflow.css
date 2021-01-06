@@ -673,7 +673,7 @@ blockquote {
 }
 
 .home-page-heading {
-  left: 114px;
+  left: 0px;
   top: 39px;
   margin-top: 32px;
   margin-right: 0px;
@@ -683,7 +683,7 @@ blockquote {
   line-height: 40px;
   font-style: normal;
   font-weight: 300;
-  text-align: left;
+  text-align: center;
   letter-spacing: 0px;
   text-transform: none;
 }
