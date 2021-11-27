@@ -185,7 +185,7 @@ blockquote {
   left: 0px;
   top: 0px;
   padding: 5px;
-  background-color: #fff;
+  background-color: rgba(255, 255, 255, 0);
 }
 
 .hero-container.project-container {
@@ -449,7 +449,7 @@ blockquote {
   right: 0px;
   bottom: 0px;
   height: 100%;
-  background-color: rgba(101, 194, 195, 0.7);
+  background-color: rgba(193, 189, 208, 0.76);
   background-position: 100% 0%, 0% 100%;
   background-size: 50%, auto;
   background-repeat: repeat-y, repeat-x;
