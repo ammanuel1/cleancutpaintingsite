@@ -127,12 +127,12 @@ blockquote {
 
 .nav-link:hover {
   opacity: 1;
-  color: #fff;
+  color: #000;
 }
 
 .nav-link.w--current {
   opacity: 1;
-  color: #fff;
+  color: #000;
 }
 
 .nav-link.contact {
